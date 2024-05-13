@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi, I'm Aman Hiran Purohit
 
 <!--
 **purohitamann/purohitamann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
