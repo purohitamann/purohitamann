@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Hiran Purohit!</h1>
-<h3 align="center">A passionate Software Development Student at Sheridan College, Oakville. I'm always looking for opportunities to work together and build projects that can help me learn new technologies. Currently working as a Front-End Developer at Zeuty, Waterloo. Open to connect and exchange insights!</h3>
+<h4 align="center">A passionate Software Development Student at Sheridan College, Oakville. I'm always looking for opportunities to work together and build projects that can help me learn new technologies. Currently working as a Front-End Developer at Zeuty, Waterloo. Open to connect and exchange insights!</h3>
 
 - 🔭 I’m currently working on [Swiftie Meter](https://github.com/purohitamann/Swiftie-Meter)
 
