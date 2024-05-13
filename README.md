@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Hiran Purohit!</h1>
 <h3 align="center">A passionate Software Development Student at Sheridan College, Oakville. I'm always looking for opportunities to work together and build projects that can help me learn new technologies. Currently working as a Front-End Developer at Zeuty, Waterloo. Open to connect and exchange insights!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=purohitamann" alt="purohitamann" /></a> </p>
-
 - 🔭 I’m currently working on [Swiftie Meter](https://github.com/purohitamann/Swiftie-Meter)
 
 - 🌱 I’m currently learning **Angular and Node**
