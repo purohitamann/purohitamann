@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Hiran Purohit!</h1>
-<img src="./gif.gif" >
+<!-- <img src="./gif.gif" >-->
+<div class="tenor-gif-embed" data-postid="14866414" data-share-method="host" data-aspect-ratio="1.35593" data-width="100%"><a href="https://tenor.com/view/orphanb-numbers-restricted-gif-14866414">Orphanb Numbers GIF</a>from <a href="https://tenor.com/search/orphanb-gifs">Orphanb GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <p align="center">A passionate Software Development Student at Sheridan College, Oakville. I'm always looking for opportunities to work together and build projects that can help me learn new technologies. Currently working as a Front-End Developer at Zeuty, Waterloo. Open to connect and exchange insights!</p>
 
 - 🔭 I’m currently working on [Swiftie Meter](https://github.com/purohitamann/Swiftie-Meter)
