@@ -11,7 +11,9 @@
 - 📫 How to reach me **https://www.linkedin.com/in/amanhiranpurohit/**
 
 - ⚡ Fun fact **I am a Big Swiftie**
-- - 📫 And Here's my portfolio:  **[Aman Hiran Purohit &Copy 2024](https://purohiam.dev.fast.sheridanc.on.ca/porfolio-2024/)**
+
+- 🔗 And Here's my portfolio: **[Aman Hiran Purohit © 2024](https://purohiam.dev.fast.sheridanc.on.ca/porfolio-2024/)**
+
                    
 <h3 align="left">Connect with me:</h3>
 <p align="left">
