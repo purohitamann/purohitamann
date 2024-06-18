@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Swiftie Meter](https://github.com/purohitamann/Swiftie-Meter)
 
-- 🌱 I’m currently learning **Angular and Node**
+- 🌱 I’m currently learning **Python and a bit of ML & AI**
 
 - 💬 Ask me about **React, Js, HTML,CSS**
 
