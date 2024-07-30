@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Big Swiftie**
 - Looking for collaboration on Projects and learning new tools
 
-- 🔗 And Here's my portfolio: **[Aman Hiran Purohit © 2024](https://purohiam.dev.fast.sheridanc.on.ca/porfolio-2024/)**
+- 🔗 And Here's my portfolio: **[Aman Hiran Purohit © 2024](https://amanhiranpurohit.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
