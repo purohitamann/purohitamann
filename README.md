@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Hiran Purohit!</h1>
 <img src="./gif.gif" >
 <!-- <img src=url("https://tenor.com/view/orphanb-numbers-restricted-gif-14866414")> -->
-<p align="center">A passionate Software Development Student at Sheridan College, Oakville. I'm always looking for opportunities to work together and build projects that can help me learn new technologies. Currently working as a Front-End Developer at Zeuty, Waterloo. Open to connect and exchange insights!</p>
+<p align="center">A passionate Software Development Student at Sheridan College, Oakville. I'm always looking for opportunities to work together and build projects to help me learn new technologies. Currently working as a Front-End Developer at Zeuty, Waterloo & SWE Fellow at HeadStarter AI, Long Island City. Open to connect and exchange insights!</p>
 
 - 🔭 I’m currently working on [Rate My Group](https://github.com/purohitamann/RateMyGroup)
 
