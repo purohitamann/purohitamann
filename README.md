@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aman Purohit!</h1>
+<h1 align="center">Hey!! 👋, I'm Aman Purohit!</h1>
 <img src="./gif.gif" >
 <!-- <img src=url("https://tenor.com/view/orphanb-numbers-restricted-gif-14866414")> -->
 <p align="center">A passionate Software Development Student at Sheridan College, Oakville. I'm always looking for opportunities to work together and build projects to help me learn new technologies. Currently working as a Software Developer at Zeuty, Waterloo & SWE Resident at HeadStarter AI, Long Island City. Open to connect and exchange insights!</p>
