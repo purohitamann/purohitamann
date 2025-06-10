@@ -55,8 +55,9 @@
 </table>
 
 ---
-![aws-certified-machine-learning-engineer-associate](https://github.com/user-attachments/assets/7f26e736-9699-4cf6-aea0-6a154ae5b3fc)
-![aws-certified-ai-practitioner (3)](https://github.com/user-attachments/assets/fc1363cf-caba-47e9-81cc-f47ca3e974da)
+[![aws-certified-machine-learning-engineer-associate](https://github.com/user-attachments/assets/7f26e736-9699-4cf6-aea0-6a154ae5b3fc)](https://www.credly.com/badges/4c015a12-ba65-4286-8cc6-754720cedfd1/public_url)
+[![aws-certified-ai-practitioner (3)](https://github.com/user-attachments/assets/fc1363cf-caba-47e9-81cc-f47ca3e974da)](https://www.credly.com/badges/c0bd5fee-2f26-402b-b9e7-d13f2ba054a7/public_url)
+
 
 
 
