@@ -55,5 +55,9 @@
 </table>
 
 ---
+![aws-certified-machine-learning-engineer-associate](https://github.com/user-attachments/assets/7f26e736-9699-4cf6-aea0-6a154ae5b3fc)
+![aws-certified-ai-practitioner (3)](https://github.com/user-attachments/assets/fc1363cf-caba-47e9-81cc-f47ca3e974da)
+
+
 
 
